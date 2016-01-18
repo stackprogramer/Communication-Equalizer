@@ -1,3 +1,5 @@
+#Project Circuit I simulink
+Project Circuit I simulink
 # Communication-Equalizer
-Communication-Equalizer-Communication I
+Simulink Communication-Equalizer-Communication I
 
