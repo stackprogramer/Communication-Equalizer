@@ -6,3 +6,6 @@ Project Circuit I simulink
 # Communication-Equalizer Simulink
 Simulink Communication-Equalizer-Communication I
 
+![equalizer](https://github.com/stackprogramer/MatlabSimulinkProjects/blob/master/ProjectEqualizerSimulink/images/eq.png)
+
+
